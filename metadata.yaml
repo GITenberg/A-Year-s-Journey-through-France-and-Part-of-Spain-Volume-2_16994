@@ -1,0 +1,28 @@
+_repo: A-Year-s-Journey-through-France-and-Part-of-Spain-Volume-2_16994
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thicknesse, Philip
+    birthdate: 1719
+    deathdate: 1792
+    gutenberg_agent_id: '6745'
+    url: http://www.gutenberg.org/2009/agents/6745
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2005-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+- !lcsh 'Spain -- Description and travel'
+title: A Year's Journey through France and Part of Spain, Volume 2
+url: http://www.gutenberg.org/ebooks/16994
